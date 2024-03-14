@@ -1,7 +1,10 @@
 ## Deep-Learning-for-QM
 
 This repository contains the project for quantum parameter estimation.
-In this project, our aim was to characterize an open quantum system based on a single measurement. In this case we assume to have a 2 level system which is rabi driven has a typical decay rate $\gamma$ 
+In this project, our aim was to characterize an open quantum system based on a single measurement. In this case, we assume to have a 2-level system that is being Rabi driven with a Rabi frequency $\Omega$ and has a typical decay rate $\gamma$. 
+The graph we obtain after one repetition is as follows:
+![image](https://github.com/ariels1234/Deep-Learning-for-QM/assets/71715388/377a8807-0fe6-4bdd-a14f-a8dabd17a85c)
+
 
 
 
