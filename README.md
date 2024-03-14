@@ -11,7 +11,7 @@ $\dot{\rho}(t)=-\frac{i}{\hbar}\left[H(t),\rho(t)\right]+\sum_{n}\frac{1}{2}\lef
 
 where one can induce the system parameters by solving this equation and fitting it to the averaged measurement results (>>1). 
 
-Our NN managed to find the two parameters of the system $\gamma$ and $\Omega$ (assuming there is no detuning) very effectively -> 100% accuracy! <!br> 
+Our NN managed to find the two parameters of the system $\gamma$ and $\Omega$ (assuming there is no detuning) very effectively -> 100% accuracy! <br> 
 For this task, a convolutional neural network (CNN) was utilized. 
 
 
