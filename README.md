@@ -2,7 +2,7 @@
 
 This repository contains the project for quantum parameter estimation.
 In this project, our aim was to characterize an open quantum system based on a single measurement. In this case, we assume to have a 2-level system that is being Rabi driven with a Rabi frequency $\Omega$ and has a typical decay rate $\gamma$. <br>
-The typical result of one repetition is as follows:
+A typical result of one repetition is as follows:
 ![image](https://github.com/ariels1234/Deep-Learning-for-QM/assets/71715388/377a8807-0fe6-4bdd-a14f-a8dabd17a85c)
 
 In this graph, one can see the excited state population vs. time. In blue, one can observe a single measurement where we have a drive combined with quantum jumps dictated by the decay rate $\gamma$. Only after averaging these measurements many times one can reach the orange curve, which is given by the Lindblad master equation as:
