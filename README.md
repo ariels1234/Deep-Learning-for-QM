@@ -22,5 +22,5 @@ One can find:
 - The dataloader.py code for loading the training and validation sets
 - The model.py code where the neural network (NN) is set
 - The Project_CNN.ipynb file where the training and the validation of the NN are perfromed using the above .py files.
-% - The trained_model.pt files, which is the trained NN ready for use after performing the training
+<!-- -The trained_model.pt files, which is the trained NN ready for use after performing the training -->
 - The data set which was generated using a Monte Carlo simulation (master.py code)
